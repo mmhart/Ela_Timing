@@ -1,0 +1,51 @@
+﻿Sample,SampleNumber,HarvestTime,Treatment,InoculationTreatment,AMFInoculant,CombinedTreatments,InoculationTiming
+8_Control-4mos-1,8,4_months,control,non-colonized roots,Control,Control,no inoculation
+35_Control-4mos-2,35,4_months,control,non-colonized roots,Control,Control,no inoculation
+60_Control-4mos-3,60,4_months,control,non-colonized roots,Control,Control,no inoculation
+80_Control-4mos-4,80,4_months,control,non-colonized roots,Control,Control,no inoculation
+87_Control-4mos-5,87,4_months,control,non-colonized roots,Control,Control,no inoculation
+13_CC4-co-inoc-4mos-1,13,4_months,co-inoculated,non-colonized roots + AMF,CC4,non-colonized roots + CC4,co-inoculation
+29_CC4-co-inoc-4mos-2,29,4_months,co-inoculated,non-colonized roots + AMF,CC4,non-colonized roots + CC4,co-inoculation
+42_CC4-co-inoc-4mos-3,42,4_months,co-inoculated,non-colonized roots + AMF,CC4,non-colonized roots + CC4,co-inoculation
+79_CC4-co-inoc-4mos-4,79,4_months,co-inoculated,non-colonized roots + AMF,CC4,non-colonized roots + CC4,co-inoculation
+97_CC4-co-inoc-4mos-5,97,4_months,co-inoculated,non-colonized roots + AMF,CC4,non-colonized roots + CC4,co-inoculation
+20_Cuba8-co-inoc-4mos-1,20,4_months,co-inoculated,non-colonized roots + AMF,Cuba8,non-colonized roots + Cuba8,co-inoculation
+22_Cuba8-co-inoc-4mos-2,22,4_months,co-inoculated,non-colonized roots + AMF,Cuba8,non-colonized roots + Cuba8,co-inoculation
+56_Cuba8-co-inoc-4mos-3,56,4_months,co-inoculated,non-colonized roots + AMF,Cuba8,non-colonized roots + Cuba8,co-inoculation
+69_Cuba8-co-inoc-4mos-4,69,4_months,co-inoculated,non-colonized roots + AMF,Cuba8,non-colonized roots + Cuba8,co-inoculation
+88_Cuba8-co-inoc-4mos-5,88,4_months,co-inoculated,non-colonized roots + AMF,Cuba8,non-colonized roots + Cuba8,co-inoculation
+4_DAOM197198-co-inoc-4mos-1,4,4_months,co-inoculated,non-colonized roots + AMF,DAOM197198,non-colonized roots + DAOM197198,co-inoculation
+36_DAOM197198-co-inoc-4mos-2,36,4_months,co-inoculated,non-colonized roots + AMF,DAOM197198,non-colonized roots + DAOM197198,co-inoculation
+54_DAOM197198-co-inoc-4mos-3,54,4_months,co-inoculated,non-colonized roots + AMF,DAOM197198,non-colonized roots + DAOM197198,co-inoculation
+72_DAOM197198-co-inoc-4mos-4,72,4_months,co-inoculated,non-colonized roots + AMF,DAOM197198,non-colonized roots + DAOM197198,co-inoculation
+99_DAOM197198-co-inoc-4mos-5,99,4_months,co-inoculated,non-colonized roots + AMF,DAOM197198,non-colonized roots + DAOM197198,co-inoculation
+5_CC4-pre-inoc-1-4mos-1,5,4_months,pre-inoc-1,pre-colonized roots,CC4,pre-colonized roots CC4,pre-inoculation
+24_CC4-pre-inoc-1-4mos-2,24,4_months,pre-inoc-1,pre-colonized roots,CC4,pre-colonized roots CC4,pre-inoculation
+57_CC4-pre-inoc-1-4mos-3,57,4_months,pre-inoc-1,pre-colonized roots,CC4,pre-colonized roots CC4,pre-inoculation
+63_CC4-pre-inoc-1-4mos-4,63,4_months,pre-inoc-1,pre-colonized roots,CC4,pre-colonized roots CC4,pre-inoculation
+84_CC4-pre-inoc-1-4mos-5,84,4_months,pre-inoc-1,pre-colonized roots,CC4,pre-colonized roots CC4,pre-inoculation
+1_Cuba8-pre-inoc-1-4mos-1,1,4_months,pre-inoc-1,pre-colonized roots,Cuba8,pre-colonized roots Cuba8,pre-inoculation
+33_Cuba8-pre-inoc-1-4mos-2,33,4_months,pre-inoc-1,pre-colonized roots,Cuba8,pre-colonized roots Cuba8,pre-inoculation
+48_Cuba8-pre-inoc-1-4mos-3,48,4_months,pre-inoc-1,pre-colonized roots,Cuba8,pre-colonized roots Cuba8,pre-inoculation
+68_Cuba8-pre-inoc-1-4mos-4,68,4_months,pre-inoc-1,pre-colonized roots,Cuba8,pre-colonized roots Cuba8,pre-inoculation
+95_Cuba8-pre-inoc-1-4mos-5,95,4_months,pre-inoc-1,pre-colonized roots,Cuba8,pre-colonized roots Cuba8,pre-inoculation
+2_DAOM197198-pre-inoc-1-4mos-1,2,4_months,pre-inoc-1,pre-colonized roots,DAOM197198,pre-colonized roots DAOM197198,pre-inoculation
+37_DAOM197198-pre-inoc-1-4mos-2,37,4_months,pre-inoc-1,pre-colonized roots,DAOM197198,pre-colonized roots DAOM197198,pre-inoculation
+45_DAOM197198-pre-inoc-1-4mos-3,45,4_months,pre-inoc-1,pre-colonized roots,DAOM197198,pre-colonized roots DAOM197198,pre-inoculation
+64_DAOM197198-pre-inoc-1-4mos-4,64,4_months,pre-inoc-1,pre-colonized roots,DAOM197198,pre-colonized roots DAOM197198,pre-inoculation
+93_DAOM197198-pre-inoc-1-4mos-5,93,4_months,pre-inoc-1,pre-colonized roots,DAOM197198,pre-colonized roots DAOM197198,pre-inoculation
+16_CC4-pre-inoc-2-4mos-1,16,4_months,pre-inoc-2,pre-colonized roots + AMF,CC4,CC4 pre-colonized roots + CC4,combination
+31_CC4-pre-inoc-2-4mos-2,31,4_months,pre-inoc-2,pre-colonized roots + AMF,CC4,CC4 pre-colonized roots + CC4,combination
+58_CC4-pre-inoc-2-4mos-3,58,4_months,pre-inoc-2,pre-colonized roots + AMF,CC4,CC4 pre-colonized roots + CC4,combination
+65_CC4-pre-inoc-2-4mos-4,65,4_months,pre-inoc-2,pre-colonized roots + AMF,CC4,CC4 pre-colonized roots + CC4,combination
+82_CC4-pre-inoc-2-4mos-5,82,4_months,pre-inoc-2,pre-colonized roots + AMF,CC4,CC4 pre-colonized roots + CC4,combination
+19_Cuba8-pre-inoc-2-4mos-1,19,4_months,pre-inoc-2,pre-colonized roots + AMF,Cuba8,Cuba8 pre-colonized roots + Cuba8,combination
+32_Cuba8-pre-inoc-2-4mos-2,32,4_months,pre-inoc-2,pre-colonized roots + AMF,Cuba8,Cuba8 pre-colonized roots + Cuba8,combination
+50_Cuba8-pre-inoc-2-4mos-3,50,4_months,pre-inoc-2,pre-colonized roots + AMF,Cuba8,Cuba8 pre-colonized roots + Cuba8,combination
+74_Cuba8-pre-inoc-2-4mos-4,74,4_months,pre-inoc-2,pre-colonized roots + AMF,Cuba8,Cuba8 pre-colonized roots + Cuba8,combination
+83_Cuba8-pre-inoc-2-4mos-5,83,4_months,pre-inoc-2,pre-colonized roots + AMF,Cuba8,Cuba8 pre-colonized roots + Cuba8,combination
+12_DAOM197198-pre-inoc-2-4mos-1,12,4_months,pre-inoc-2,pre-colonized roots + AMF,DAOM197198,DAOM197198 pre-colonized roots + DAOM197198,combination
+34_DAOM197198-pre-inoc-2-4mos-2,34,4_months,pre-inoc-2,pre-colonized roots + AMF,DAOM197198,DAOM197198 pre-colonized roots + DAOM197198,combination
+43_DAOM197198-pre-inoc-2-4mos-3,43,4_months,pre-inoc-2,pre-colonized roots + AMF,DAOM197198,DAOM197198 pre-colonized roots + DAOM197198,combination
+73_DAOM197198-pre-inoc-2-4mos-4,73,4_months,pre-inoc-2,pre-colonized roots + AMF,DAOM197198,DAOM197198 pre-colonized roots + DAOM197198,combination
+81_DAOM197198-pre-inoc-2-4mos-5,81,4_months,pre-inoc-2,pre-colonized roots + AMF,DAOM197198,DAOM197198 pre-colonized roots + DAOM197198,combination

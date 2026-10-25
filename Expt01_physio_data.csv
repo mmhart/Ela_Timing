@@ -1,0 +1,141 @@
+﻿SampleNumber,BlockPotNumber,SampleName,HarvestTime,AMFIsolate,InoculationTiming,TotalDryWeight.g,ShootDryWeight.g,RootDryWeight.g,Root:ShootRatio,ShootP,SoilP,SoilpH
+3,B1P3,CC4-co-inoc-2mos-1,2,CC4,co-inoculation,10.21,9.05,1.16,0.13,0.321,21.69,7.65
+39,B2P19,CC4-co-inoc-2mos-2,2,CC4,co-inoculation,10.21,9.55,0.66,0.07,0.589,21.18,7.12
+46,B3P6,CC4-co-inoc-2mos-3,2,CC4,co-inoculation,9.39,8.83,0.56,0.06,0.498,17.21,7.77
+78,B4P18,CC4-co-inoc-2mos-4,2,CC4,co-inoculation,12.9,8.7,4.2,0.48,0.306,14.46,7.15
+98,B5P18,CC4-co-inoc-2mos-5,2,CC4,co-inoculation,10.58,9.89,0.69,0.07,0.492,19.39,6.57
+105,B6P5,CC4-co-inoc-2mos-6,2,CC4,co-inoculation,11.83,9.29,2.54,0.27,0.452,17.36,7.69
+121,B7P1,CC4-co-inoc-2mos-7,2,CC4,co-inoculation,10.36,9.12,1.24,0.14,0.447,18.55,7.54
+13,B1P13,CC4-co-inoc-4mos-1,4,CC4,co-inoculation,20.32,12.48,7.84,0.63,0.208,17.79,7.42
+29,B2P9,CC4-co-inoc-4mos-2,4,CC4,co-inoculation,19.28,13.04,6.24,0.48,0.186,19.57,7.32
+42,B3P2,CC4-co-inoc-4mos-3,4,CC4,co-inoculation,18.44,12.29,6.15,0.5,0.289,17.95,7.47
+79,B4P19,CC4-co-inoc-4mos-4,4,CC4,co-inoculation,21.47,12.5,8.97,0.72,0.212,18.57,7.04
+97,B5P17,CC4-co-inoc-4mos-5,4,CC4,co-inoculation,20.86,12.1,8.76,0.72,0.109,18.84,7.26
+112,B6P12,CC4-co-inoc-4mos-6,4,CC4,co-inoculation,20.88,11.06,9.82,0.89,0.146,21.97,7.18
+140,B7P20,CC4-co-inoc-4mos-7,4,CC4,co-inoculation,16.34,10.74,5.6,0.52,0.17,19.81,7.13
+6,B1P6,CC4-pre-inoc-1-2mos-1,2,CC4,pre-inoculation,11.61,9.47,2.14,0.23,0.414,19.67,7.28
+40,B2P20,CC4-pre-inoc-1-2mos-2,2,CC4,pre-inoculation,12.16,9.84,2.32,0.24,0.28,20.11,6.5
+59,B3P19,CC4-pre-inoc-1-2mos-3,2,CC4,pre-inoculation,9.61,8.97,0.64,0.07,0.392,20.55,6.62
+76,B4P16,CC4-pre-inoc-1-2mos-4,2,CC4,pre-inoculation,10.65,9.01,1.64,0.18,0.262,19.52,7.31
+91,B5P11,CC4-pre-inoc-1-2mos-5,2,CC4,pre-inoculation,10.02,9.48,0.54,0.06,0.306,19.27,7.19
+118,B6P18,CC4-pre-inoc-1-2mos-6,2,CC4,pre-inoculation,11.53,9.18,2.35,0.26,0.391,21.36,7.09
+124,B7P4,CC4-pre-inoc-1-2mos-7,2,CC4,pre-inoculation,11.97,8.83,3.14,0.36,0.715,17.43,7.07
+5,B1P5,CC4-pre-inoc-1-4mos-1,4,CC4,pre-inoculation,19.48,13.49,5.99,0.44,0.184,17.96,6.62
+24,B2P4,CC4-pre-inoc-1-4mos-2,4,CC4,pre-inoculation,19.43,13.04,6.39,0.49,0.274,15.75,7.57
+57,B3P17,CC4-pre-inoc-1-4mos-3,4,CC4,pre-inoculation,17.39,11.82,5.57,0.47,0.371,17.31,7.49
+63,B4P3,CC4-pre-inoc-1-4mos-4,4,CC4,pre-inoculation,20.1,12.06,8.04,0.67,0.337,15.15,7.37
+84,B5P4,CC4-pre-inoc-1-4mos-5,4,CC4,pre-inoculation,17.24,11.4,5.84,0.51,0.607,14.29,7.88
+101,B6P1,CC4-pre-inoc-1-4mos-6,4,CC4,pre-inoculation,19.74,11.32,8.42,0.74,0.111,17.78,7.38
+130,B7P10,CC4-pre-inoc-1-4mos-7,4,CC4,pre-inoculation,18.16,11.66,6.5,0.56,0.3,15.44,7.6
+7,B1P7,CC4-pre-inoc-2-2mos-1,2,CC4,combination,10.94,9,1.94,0.22,0.3,21.69,7.03
+28,B2P8,CC4-pre-inoc-2-2mos-2,2,CC4,combination,12.21,9.59,2.62,0.27,0.48,22.55,7.05
+44,B3P4,CC4-pre-inoc-2-2mos-3,2,CC4,combination,14.57,12.32,2.25,0.18,0.594,16.14,7.23
+70,B4P10,CC4-pre-inoc-2-2mos-4,2,CC4,combination,10.96,9.49,1.47,0.15,0.422,17.07,7.57
+85,B5P5,CC4-pre-inoc-2-2mos-5,2,CC4,combination,11.05,8.75,2.3,0.26,0.453,17.93,6.52
+111,B6P11,CC4-pre-inoc-2-2mos-6,2,CC4,combination,10.66,9.04,1.62,0.18,0.32,21.2,6.92
+133,B7P13,CC4-pre-inoc-2-2mos-7,2,CC4,combination,12.05,8.82,3.23,0.37,0.505,21.16,7.03
+16,B1P16,CC4-pre-inoc-2-4mos-1,4,CC4,combination,20.71,13.33,7.38,0.55,0.155,20.08,7.59
+31,B2P11,CC4-pre-inoc-2-4mos-2,4,CC4,combination,20.25,13.51,6.74,0.5,0.125,18.47,7.31
+58,B3P18,CC4-pre-inoc-2-4mos-3,4,CC4,combination,18.75,12.07,6.68,0.55,0.315,22.73,7.32
+65,B4P5,CC4-pre-inoc-2-4mos-4,4,CC4,combination,25.79,12.4,13.39,1.08,0.241,14.54,7.48
+82,B5P2,CC4-pre-inoc-2-4mos-5,4,CC4,combination,18.98,12.16,6.82,0.56,0.239,16.62,7.43
+110,B6P10,CC4-pre-inoc-2-4mos-6,4,CC4,combination,18.34,12.15,6.19,0.51,0.24,22.88,6.95
+125,B7P5,CC4-pre-inoc-2-4mos-7,4,CC4,combination,17.77,11.4,6.37,0.56,0.319,18.99,7.39
+15,B1P15,Control-2mos-1,2,Control,no inoculation,11.9,8.82,3.08,0.35,0.337,26.78,6.81
+27,B2P7,Control-2mos-2,2,Control,no inoculation,10.64,9.25,1.39,0.15,0.404,21.63,7.19
+53,B3P13,Control-2mos-3,2,Control,no inoculation,10.24,9.56,0.68,0.07,0.285,16.02,6.71
+77,B4P17,Control-2mos-4,2,Control,no inoculation,10.02,9.22,0.8,0.09,0.435,17.56,7.45
+92,B5P12,Control-2mos-5,2,Control,no inoculation,11.91,9.57,2.34,0.24,0.466,22.53,6.59
+106,B6P6,Control-2mos-6,2,Control,no inoculation,11.47,9.27,2.2,0.24,0.418,24.78,6.56
+126,B7P6,Control-2mos-7,2,Control,no inoculation,10.83,8.73,2.1,0.24,0.52,16.81,7.59
+8,B1P8,Control-4mos-1,4,Control,no inoculation,17.18,11.1,6.08,0.55,0.131,27.31,7.32
+35,B2P15,Control-4mos-2,4,Control,no inoculation,17.41,11.75,5.66,0.48,0.312,26.27,7.71
+60,B3P20,Control-4mos-3,4,Control,no inoculation,18.57,12.4,6.17,0.5,0.31,19.92,7.52
+80,B4P20,Control-4mos-4,4,Control,no inoculation,19.77,11.68,8.09,0.69,0.229,16.69,7.23
+87,B5P7,Control-4mos-5,4,Control,no inoculation,17,11.24,5.76,0.51,0.256,16.75,7.42
+115,B6P15,Control-4mos-6,4,Control,no inoculation,22.01,12.22,9.79,0.8,0.15,19.64,6.54
+139,B7P19,Control-4mos-7,4,Control,no inoculation,20.09,12.09,8,0.66,0.185,29.5,7.05
+14,B1P14,Cuba8-co-inoc-2mos-1,2,Cuba8,co-inoculation,9.88,9.23,0.65,0.07,0.302,19.77,7.07
+26,B2P6,Cuba8-co-inoc-2mos-2,2,Cuba8,co-inoculation,13.26,9.31,3.95,0.42,0.297,16.86,7.45
+49,B3P9,Cuba8-co-inoc-2mos-3,2,Cuba8,co-inoculation,11.9,9.43,2.47,0.26,0.548,18.27,7.32
+75,B4P15,Cuba8-co-inoc-2mos-4,2,Cuba8,co-inoculation,11.03,9.24,1.79,0.19,0.353,15.08,7.27
+90,B5P10,Cuba8-co-inoc-2mos-5,2,Cuba8,co-inoculation,15.43,9.05,6.38,0.7,0.419,16.99,7.09
+104,B6P4,Cuba8-co-inoc-2mos-6,2,Cuba8,co-inoculation,10.01,9.2,0.81,0.09,0.33,17.62,7.18
+134,B7P14,Cuba8-co-inoc-2mos-7,2,Cuba8,co-inoculation,10.07,8.94,1.13,0.13,0.548,17.96,6.73
+20,B1P20,Cuba8-co-inoc-4mos-1,4,Cuba8,co-inoculation,26.01,11.71,14.3,1.22,0.196,18.8,7.33
+22,B2P2,Cuba8-co-inoc-4mos-2,4,Cuba8,co-inoculation,19.8,12.22,7.58,0.62,0.171,19.21,7.52
+56,B3P16,Cuba8-co-inoc-4mos-3,4,Cuba8,co-inoculation,17.76,11.92,5.84,0.49,0.161,19.92,7.38
+69,B4P9,Cuba8-co-inoc-4mos-4,4,Cuba8,co-inoculation,21.86,12.31,9.55,0.78,0.135,18.47,7.46
+88,B5P8,Cuba8-co-inoc-4mos-5,4,Cuba8,co-inoculation,16.43,10.47,5.96,0.57,0.318,18.26,7.74
+107,B6P7,Cuba8-co-inoc-4mos-6,4,Cuba8,co-inoculation,15.99,10.77,5.22,0.48,0.34,17.28,7.3
+129,B7P9,Cuba8-co-inoc-4mos-7,4,Cuba8,co-inoculation,17.27,11.1,6.17,0.56,0.333,16.17,7.55
+17,B1P17,Cuba8-pre-inoc-1-2mos-1,2,Cuba8,pre-inoculation,11.67,9.14,2.53,0.28,0.392,20.09,7.45
+25,B2P5,Cuba8-pre-inoc-1-2mos-2,2,Cuba8,pre-inoculation,11.9,9.5,2.4,0.25,0.272,14.77,7.46
+47,B3P7,Cuba8-pre-inoc-1-2mos-3,2,Cuba8,pre-inoculation,9.69,8.87,0.82,0.09,0.594,16.98,7.13
+62,B4P2,Cuba8-pre-inoc-1-2mos-4,2,Cuba8,pre-inoculation,10.06,8.92,1.14,0.13,0.471,17.98,7.46
+89,B5P9,Cuba8-pre-inoc-1-2mos-5,2,Cuba8,pre-inoculation,12.81,9.11,3.7,0.41,0.362,17.91,7.69
+117,B6P17,Cuba8-pre-inoc-1-2mos-6,2,Cuba8,pre-inoculation,9.76,8.36,1.4,0.17,0.826,21.59,7.09
+132,B7P12,Cuba8-pre-inoc-1-2mos-7,2,Cuba8,pre-inoculation,10.47,8.74,1.73,0.2,0.462,13.66,7.43
+1,B1P1,Cuba8-pre-inoc-1-4mos-1,4,Cuba8,pre-inoculation,15.93,10.18,5.75,0.56,0.269,22.72,7.34
+33,B2P13,Cuba8-pre-inoc-1-4mos-2,4,Cuba8,pre-inoculation,17.06,11.08,5.98,0.54,0.287,16.74,7.58
+48,B3P8,Cuba8-pre-inoc-1-4mos-3,4,Cuba8,pre-inoculation,19.11,13.12,5.99,0.46,0.107,13.42,7.61
+68,B4P8,Cuba8-pre-inoc-1-4mos-4,4,Cuba8,pre-inoculation,17.84,11.63,6.21,0.53,0.239,16.39,7.27
+95,B5P15,Cuba8-pre-inoc-1-4mos-5,4,Cuba8,pre-inoculation,22.89,12.42,10.47,0.84,0.157,20.57,6.85
+103,B6P3,Cuba8-pre-inoc-1-4mos-6,4,Cuba8,pre-inoculation,16.65,10.69,5.96,0.56,0.2,21.42,7.26
+123,B7P3,Cuba8-pre-inoc-1-4mos-7,4,Cuba8,pre-inoculation,16.94,11.52,5.42,0.47,0.313,21.8,7.68
+9,B1P9,Cuba8-pre-inoc-2-2mos-1,2,Cuba8,combination,10.47,8.79,1.68,0.19,0.53,23.33,7.34
+23,B2P3,Cuba8-pre-inoc-2-2mos-2,2,Cuba8,combination,10.58,9.5,1.08,0.11,0.446,20.89,7.82
+52,B3P12,Cuba8-pre-inoc-2-2mos-3,2,Cuba8,combination,9.19,8.65,0.54,0.06,0.566,16.18,7.15
+71,B4P11,Cuba8-pre-inoc-2-2mos-4,2,Cuba8,combination,9.96,9.36,0.6,0.06,0.348,16.1,7.24
+96,B5P16,Cuba8-pre-inoc-2-2mos-5,2,Cuba8,combination,10.22,9.35,0.87,0.09,0.411,21.01,7.56
+116,B6P16,Cuba8-pre-inoc-2-2mos-6,2,Cuba8,combination,10.11,8.49,1.62,0.19,0.294,16.33,7.08
+127,B7P7,Cuba8-pre-inoc-2-2mos-7,2,Cuba8,combination,9.7,8.6,1.1,0.13,0.001,21.69,6.99
+19,B1P19,Cuba8-pre-inoc-2-4mos-1,4,Cuba8,combination,17,10.26,6.74,0.66,0.154,20.99,7.39
+32,B2P12,Cuba8-pre-inoc-2-4mos-2,4,Cuba8,combination,17.04,11.41,5.63,0.49,0.283,18.14,7.5
+50,B3P10,Cuba8-pre-inoc-2-4mos-3,4,Cuba8,combination,17.37,11.88,5.49,0.46,0.258,20.13,7.66
+74,B4P14,Cuba8-pre-inoc-2-4mos-4,4,Cuba8,combination,22.5,11.5,11,0.96,0.197,18.29,7.53
+83,B5P3,Cuba8-pre-inoc-2-4mos-5,4,Cuba8,combination,22.43,12.14,10.29,0.85,0.436,19.06,7.46
+109,B6P9,Cuba8-pre-inoc-2-4mos-6,4,Cuba8,combination,21.7,11.38,10.32,0.91,0.208,25.01,7.31
+138,B7P18,Cuba8-pre-inoc-2-4mos-7,4,Cuba8,combination,20.5,12.12,8.38,0.69,0.286,22.55,7.53
+11,B1P11,DAOM197198-co-inoc-2mos-1,2,DAOM197198,co-inoculation,10.4,9.32,1.08,0.12,0.287,20.92,7.45
+21,B2P1,DAOM197198-co-inoc-2mos-2,2,DAOM197198,co-inoculation,11.02,10,1.02,0.1,0.348,21.4,7
+51,B3P11,DAOM197198-co-inoc-2mos-3,2,DAOM197198,co-inoculation,11.94,10.59,1.35,0.13,0.415,19.4,5.95
+67,B4P7,DAOM197198-co-inoc-2mos-4,2,DAOM197198,co-inoculation,9.73,9.11,0.62,0.07,0.271,17.74,7.49
+100,B5P20,DAOM197198-co-inoc-2mos-5,2,DAOM197198,co-inoculation,9.98,9.4,0.58,0.06,0.222,16.8,7.09
+113,B6P13,DAOM197198-co-inoc-2mos-6,2,DAOM197198,co-inoculation,10.91,9.51,1.4,0.15,0.193,19.79,7.49
+136,B7P16,DAOM197198-co-inoc-2mos-7,2,DAOM197198,co-inoculation,14.85,8.55,6.3,0.74,0.584,16.5,7.22
+4,B1P4,DAOM197198-co-inoc-4mos-1,4,DAOM197198,co-inoculation,17.95,11.9,6.05,0.51,0.257,18.58,7.33
+36,B2P16,DAOM197198-co-inoc-4mos-2,4,DAOM197198,co-inoculation,18.37,12.24,6.13,0.5,0.166,19.82,7.48
+54,B3P14,DAOM197198-co-inoc-4mos-3,4,DAOM197198,co-inoculation,17.65,12.07,5.58,0.46,0.128,18.34,7.44
+72,B4P12,DAOM197198-co-inoc-4mos-4,4,DAOM197198,co-inoculation,16.65,11.81,4.84,0.41,0.257,16.67,6.82
+99,B5P19,DAOM197198-co-inoc-4mos-5,4,DAOM197198,co-inoculation,16.64,11.23,5.41,0.48,0.227,24.87,7.33
+114,B6P14,DAOM197198-co-inoc-4mos-6,4,DAOM197198,co-inoculation,17.31,10.99,6.32,0.58,0.216,22.84,7.41
+122,B7P2,DAOM197198-co-inoc-4mos-7,4,DAOM197198,co-inoculation,14.24,11.31,2.93,0.26,0.287,25.51,7
+10,B1P10,DAOM197198-pre-inoc-1-2mos-1,2,DAOM197198,pre-inoculation,10.88,9.48,1.4,0.15,0.292,17.31,7.34
+38,B2P18,DAOM197198-pre-inoc-1-2mos-2,2,DAOM197198,pre-inoculation,10.34,9.01,1.33,0.15,0.401,19.12,7.05
+41,B3P1,DAOM197198-pre-inoc-1-2mos-3,2,DAOM197198,pre-inoculation,10.6,9.41,1.19,0.13,0.441,21.23,6.8
+61,B4P1,DAOM197198-pre-inoc-1-2mos-4,2,DAOM197198,pre-inoculation,11.36,9.45,1.91,0.2,0.439,14.71,6.68
+86,B5P6,DAOM197198-pre-inoc-1-2mos-5,2,DAOM197198,pre-inoculation,10.31,9.56,0.75,0.08,0.38,20.28,7.23
+102,B6P2,DAOM197198-pre-inoc-1-2mos-6,2,DAOM197198,pre-inoculation,10.12,9.55,0.57,0.06,0.371,21.35,6.93
+135,B7P15,DAOM197198-pre-inoc-1-2mos-7,2,DAOM197198,pre-inoculation,10.71,8.73,1.98,0.23,0.592,21.47,6.13
+2,B1P2,DAOM197198-pre-inoc-1-4mos-1,4,DAOM197198,pre-inoculation,23.38,12.76,10.62,0.83,0.17,18.63,7.54
+37,B2P17,DAOM197198-pre-inoc-1-4mos-2,4,DAOM197198,pre-inoculation,18.23,12.34,5.89,0.48,0.133,18.05,7.14
+45,B3P5,DAOM197198-pre-inoc-1-4mos-3,4,DAOM197198,pre-inoculation,18.98,13.12,5.86,0.45,0.212,24.61,7.53
+64,B4P4,DAOM197198-pre-inoc-1-4mos-4,4,DAOM197198,pre-inoculation,18.79,12.02,6.77,0.56,0.274,17.74,7.7
+93,B5P13,DAOM197198-pre-inoc-1-4mos-5,4,DAOM197198,pre-inoculation,21.21,11.25,9.96,0.89,0.369,16.9,7.38
+108,B6P8,DAOM197198-pre-inoc-1-4mos-6,4,DAOM197198,pre-inoculation,19.84,11.14,8.7,0.78,0.185,18.04,7.19
+128,B7P8,DAOM197198-pre-inoc-1-4mos-7,4,DAOM197198,pre-inoculation,16.53,10.99,5.54,0.5,0.376,22.06,7.59
+18,B1P18,DAOM197198-pre-inoc-2-2mos-1,2,DAOM197198,combination,9.85,9.07,0.78,0.09,0.49,19.62,7.81
+30,B2P10,DAOM197198-pre-inoc-2-2mos-2,2,DAOM197198,combination,10.18,9.27,0.91,0.1,0.604,20.57,6.89
+55,B3P15,DAOM197198-pre-inoc-2-2mos-3,2,DAOM197198,combination,12.56,8.84,3.72,0.42,0.463,20.01,7.07
+66,B4P6,DAOM197198-pre-inoc-2-2mos-4,2,DAOM197198,combination,10.27,9.16,1.11,0.12,0.427,14.87,7.21
+94,B5P14,DAOM197198-pre-inoc-2-2mos-5,2,DAOM197198,combination,9.59,8.92,0.67,0.08,0.447,22.47,7.02
+119,B6P19,DAOM197198-pre-inoc-2-2mos-6,2,DAOM197198,combination,9.81,9.4,0.41,0.04,0.304,21.93,6.83
+131,B7P11,DAOM197198-pre-inoc-2-2mos-7,2,DAOM197198,combination,9.87,8.64,1.23,0.14,0.362,17.09,7.07
+12,B1P12,DAOM197198-pre-inoc-2-4mos-1,4,DAOM197198,combination,21.5,12.72,8.78,0.69,0.25,19.23,7.53
+34,B2P14,DAOM197198-pre-inoc-2-4mos-2,4,DAOM197198,combination,19.33,12.62,6.71,0.53,0.234,14.04,7.19
+43,B3P3,DAOM197198-pre-inoc-2-4mos-3,4,DAOM197198,combination,18.99,12.77,6.22,0.49,0.164,17.06,6.72
+73,B4P13,DAOM197198-pre-inoc-2-4mos-4,4,DAOM197198,combination,13.37,12.56,0.81,0.06,0.228,18,7.27
+81,B5P1,DAOM197198-pre-inoc-2-4mos-5,4,DAOM197198,combination,18.35,12.2,6.15,0.5,0.193,15.71,7.04
+120,B6P20,DAOM197198-pre-inoc-2-4mos-6,4,DAOM197198,combination,18.33,11.23,7.1,0.63,0.25,19.62,7.17
+137,B7P17,DAOM197198-pre-inoc-2-4mos-7,4,DAOM197198,combination,22.22,12.05,10.17,0.84,0.118,18.14,7.58
